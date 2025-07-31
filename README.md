@@ -1,3 +1,10 @@
-# odin-recipes
-I will be building a basic recipe in this project using only HTML (for now).
-The website will consist of a main index page which will have links to a few recipes, I will revisit this project in the future to style it up with CSS.
+# Odin Recipes
+
+A simple static webpage built using only HTML.  
+Created as part of the HTML Foundations section in [The Odin Project](https://www.theodinproject.com/).
+
+## Features
+- Semantic HTML structure
+- Clean and readable markup
+
+
